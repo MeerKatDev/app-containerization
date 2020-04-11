@@ -6,10 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-
+export dockerpath="lcampobasso/mlapp"
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login --username lcampobasso
+docker tag mlapp $dockerpath
 
 # Step 3:
 # Push image to a docker repository
+docker push $dockerpath
