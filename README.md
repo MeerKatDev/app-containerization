@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![lcampobasso](https://circleci.com/gh/lcampobasso/app-containerization.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 ## Project Overview
 
