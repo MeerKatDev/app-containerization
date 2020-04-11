@@ -1,4 +1,5 @@
-[![lcampobasso](https://circleci.com/gh/lcampobasso/app-containerization.svg?style=svg)](https://circleci.com/gh/lcampobasso/app-containerization)
+
+[![MeerKatDev](https://circleci.com/gh/MeerKatDev/app-containerization.svg?style=svg)](https://circleci.com/gh/lcampobasso/app-containerization)
 
 ## Project Overview
 
