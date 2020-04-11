@@ -10,4 +10,4 @@ docker build . --tag=mlapp
 docker image ls
 # Step 3: 
 # Run flask app
-docker run -it --rm --name mlapp -p 80:8000 mlapp
+docker run -it --rm --name mlapp -p 8000:80 mlapp
